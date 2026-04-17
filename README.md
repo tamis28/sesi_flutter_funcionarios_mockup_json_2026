@@ -1,4 +1,20 @@
-# flutter_splash_aula8
+# Funcionários
+Atividade do curso técnico em desenvolvimento de sistema que consistia em criar um aplicativo com flutter que renderiza uma lista de funcionários em json.
 
-A new Flutter project.
-# sesi_flutter_funcionarios_mockup_json_2026
+## Tecnologias
+- Flutter
+- Dart
+- Android Studio
+- VsCode
+
+## Como testar
+- Clone o repositório
+- Abra com VsCode, em um terminal digite:
+```
+flutter pub get
+flutter run
+```
+
+## Prints
+![Print01](./assets/info/print01.png)
+![Print01](./assets/info/print01.png)
