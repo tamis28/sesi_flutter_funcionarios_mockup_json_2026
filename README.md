@@ -17,4 +17,5 @@ flutter run
 
 ## Prints
 ![Print01](./assets/info/print01.png)
-![Print01](./assets/info/print01.png)
+![Print01](./assets/info/print02.png)
+![Print01](./assets/info/print03.png)
