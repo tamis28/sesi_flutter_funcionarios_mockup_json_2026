@@ -16,7 +16,5 @@ flutter run
 ```
 
 ## Prints
-
-|![Print01](./assets/info/print01.png)|![Print02](./assets/info/print02.png)|![Print03](./assets/info/print03.png)|
-|:-:|:-:|:-:|
-|Splash|Home|Menu|
+![Print01](./assets/info/print01.png)
+![Print01](./assets/info/print01.png)
